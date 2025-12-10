@@ -1,0 +1,6 @@
+numpy
+matplotlib
+qiskit
+qiskit[visualization]
+qiskit-aer
+PyQt5
