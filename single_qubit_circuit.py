@@ -4,7 +4,7 @@ from qiskit_aer import AerSimulator
 import matplotlib.pyplot as plt
 
 MPL_DRAW = True
-SHOTS = 1024
+SHOTS = 10000
 
 # Quantum Circuit initialization
 #   - QuantumCircuit(qubit_register_size, bit_register_size)
